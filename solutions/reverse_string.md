@@ -5,7 +5,6 @@
 > - "The Daily Byte", return "etyB yliaD ehT"
 > - "civic", return "civic"
 
-
 Solution:
 ```
 def reverse_string(string):

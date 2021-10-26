@@ -13,6 +13,7 @@ def valid_palindrome(string):
     string = ''.join(filter(str.isalpha, string)).lower()
     return True if string == string[::-1] else False
 ```
+
 Test results:
 ```
 In [2]: valid_palindrome("level")

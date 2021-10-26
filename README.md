@@ -6,3 +6,4 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 ## Contents
 1. [Reverse String](solutions/reverse_string.md)
 2. [Valid Palindrome](solutions/valid_palindrome.md)
+3. [Vacuum Cleaner Route](solutions/vacuum_cleaner_route.md)
