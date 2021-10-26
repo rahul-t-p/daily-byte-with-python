@@ -4,4 +4,5 @@ Solutions for the coding interview questions from [THE DAILY BYTE](https://theda
 The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/). Subscribe [THE DAILY BYTE](https://thedailybyte.dev/) for receiving interview questions through mail.
 
 ## Contents
-1. [Reverse String](solutions\reverse_string.md)
+1. [Reverse String](solutions/reverse_string.md)
+2. [Valid Palindrome](solutions/valid_palindrome.md)
