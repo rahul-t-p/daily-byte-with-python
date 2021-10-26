@@ -8,3 +8,4 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 2. [Valid Palindrome](solutions/valid_palindrome.md)
 3. [Vacuum Cleaner Route](solutions/vacuum_cleaner_route.md)
 4. [Correct Capitalization](solutions/correct_capitalization.md)
+5. [Add Binary](solutions\add_binary.md)
