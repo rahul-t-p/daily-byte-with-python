@@ -12,3 +12,4 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 6. [Valid Palindrome with Removal](solutions/valid_palindrome_with_removal.md)
 7. [Two Sum](solutions/two_sum.md)
 8. [Jewels and Stones](solutions/jewels_and_stones.md)
+9. [Valid Anagram](solutions/valid_anagram.md)
