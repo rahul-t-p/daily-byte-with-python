@@ -16,4 +16,5 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 10. [First Unique Character](solutions/first_unique_character.md)
 11. [Spot the Difference](solutions/spot_the_difference.md)
 12. [Intersection of Numbers](solutions/intersection_of_numbers.md)
-12. [Uncommon Words](solutions/uncommon_words.md)
+13. [Uncommon Words](solutions/uncommon_words.md)
+14. [Longest Common Prefix](solutions/longest_common_prefix.md)
