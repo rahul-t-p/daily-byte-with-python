@@ -15,3 +15,4 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 9. [Valid Anagram](solutions/valid_anagram.md)
 10. [First Unique Character](solutions/first_unique_character.md)
 11. [Spot the Difference](solutions/spot_the_difference.md)
+12. [Intersection of Numbers](solutions/intersection_of_numbers.md)
