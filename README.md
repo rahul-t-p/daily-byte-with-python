@@ -18,3 +18,4 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 12. [Intersection of Numbers](solutions/intersection_of_numbers.md)
 13. [Uncommon Words](solutions/uncommon_words.md)
 14. [Longest Common Prefix](solutions/longest_common_prefix.md)
+15. [Validate Opening and Closing Braces](solutions/validate_opening_and_closing_braces.md)
