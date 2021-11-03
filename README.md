@@ -20,3 +20,4 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 14. [Longest Common Prefix](solutions/longest_common_prefix.md)
 15. [Validate Opening and Closing Braces](solutions/validate_opening_and_closing_braces.md)
 16. [Compare Keystrokes](solutions/compare_keystrokes.md)
+17. [Remove Adjacent Duplicates](solutions/remove_adjacent_duplicates.md)
