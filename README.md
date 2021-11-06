@@ -23,3 +23,4 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 17. [Remove Adjacent Duplicates](solutions/remove_adjacent_duplicates.md)
 18. [Greater Elements](solutions/greater_elements.md)
 19. [Call Counter](solutions/call_counter.md)
+20. [Moving Average](solutions/moving_average.md)
