@@ -50,6 +50,7 @@ class LinkedList:
         
         if(self._size == n):
             self._head = self._head._nextNode
+            self_size -= 1
             return
         
         traverseNode = self._head
@@ -58,6 +59,7 @@ class LinkedList:
         
         tmpNode = traverseNode._nextNode
         traverseNode._nextNode = tmpNode._nextNode
+        self._size -= 1
 ```
 
 Test results:
