@@ -29,6 +29,7 @@ class LinkedList:
         while printVal is not None:
             print(printVal._element, end='->')
             printVal = printVal._nextNode
+        print('null')
         
     def addNodeAtEnd(self, newElement):
         '''adds a new node at the end of the linked list'''
@@ -69,41 +70,49 @@ Test results:
 In [4]: list1 = LinkedList()
    ...: for i in [1, 2, 3]: list1.addNodeAtEnd(i)
    ...: list1.printLinkedList()
-1->2->3->
+1->2->3->null
+
 In [5]: list2 = LinkedList()
    ...: for i in [4, 5, 6]: list2.addNodeAtEnd(i)
    ...: list2.printLinkedList()
-4->5->6->
+4->5->6->null
+
 In [6]: list3 = mergeLinkedLists(list1, list2)
    ...: list3.printLinkedList()
-1->2->3->4->5->6->
+1->2->3->4->5->6->null
+
 In [7]: 
 
 In [7]: list1 = LinkedList()
    ...: for i in [1, 3, 5]: list1.addNodeAtEnd(i)
    ...: list1.printLinkedList()
-1->3->5->
+1->3->5->null
+
 In [8]: list2 = LinkedList()
    ...: for i in [2, 4, 6]: list2.addNodeAtEnd(i)
    ...: list2.printLinkedList()
-2->4->6->
+2->4->6->null
+
 In [9]: list3 = mergeLinkedLists(list1, list2)
    ...: list3.printLinkedList()
-1->2->3->4->5->6->
+1->2->3->4->5->6->null
+
 In [10]: 
 
 In [10]: list1 = LinkedList()
     ...: for i in [4, 4, 7]: list1.addNodeAtEnd(i)
     ...: list1.printLinkedList()
-4->4->7->
+4->4->7->null
+
 In [11]: list2 = LinkedList()
     ...: for i in [1, 5, 6]: list2.addNodeAtEnd(i)
     ...: list2.printLinkedList()
-1->5->6->
+1->5->6->null
+
 In [12]: list3 = mergeLinkedLists(list1, list2)
     ...: list3.printLinkedList()
-1->4->4->5->6->7->
-In [13]: 
+1->4->4->5->6->7->null
+
 ```
 
 References:
