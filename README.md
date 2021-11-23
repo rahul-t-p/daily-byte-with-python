@@ -32,3 +32,4 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 1. [Merge Linked Lists](solutions/linked-lists/merge_linked_lists.md)
 2. [Remove Nth to Last Node](solutions/linked-lists/remove_nth_to_last_node.md)
 3. [Remove Value](solutions/linked-lists/remove_value.md)
+4. [Find Middle Element](solutions/linked-lists/find_middle_element.md)
