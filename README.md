@@ -35,3 +35,4 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 4. [Find Middle Element](solutions/linked-lists/find_middle_element.md)
 5. [Contains Cycle](solutions/linked-lists/contains_cycle.md)
 6. [Return Start of Cycle](solutions/linked-lists/return_start_of_cycle.md)
+7. [Reverse List](solutions/linked-lists/reverse_list.md)
