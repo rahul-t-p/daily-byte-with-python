@@ -44,6 +44,7 @@ class LinkedList:
         traverseNode._nextNode = newNode
     
     def reverse_list(self):
+        '''reverse the linked list'''
         prevNode, nextNode = None, None
         currentNode = self._head
         while(currentNode is not None):
