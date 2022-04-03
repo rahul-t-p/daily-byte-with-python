@@ -25,6 +25,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 19. [Call Counter](solutions/call_counter.md)
 20. [Moving Average](solutions/moving_average.md)
 21. [Work Schedule](solutions/work_schedule.md)
+22. [Sum to Target](solutions/sum_to_target.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
