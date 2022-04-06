@@ -27,6 +27,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 21. [Work Schedule](solutions/work_schedule.md)
 22. [Sum to Target](solutions/sum_to_target.md)
 23. [Where's the Minimum](solutions/wheres_the_minimum.md)
+24. [String Addition](solutions/string_addition.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
