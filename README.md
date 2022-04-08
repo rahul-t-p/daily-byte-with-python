@@ -29,6 +29,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 23. [Where's the Minimum](solutions/wheres_the_minimum.md)
 24. [String Addition](solutions/string_addition.md)
 25. [Find Value](solutions/find_value.md)
+26. [Restaurants](solutions/restaurants.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
