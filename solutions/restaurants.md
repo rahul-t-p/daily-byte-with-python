@@ -2,7 +2,7 @@
 >
 > Ex: Given the following lists...
 > - `list1 = ["A", "B", "C", "D"]`, `list2 = ["D", "B", "C"]`, return `["B"]` ("B" is the least index sum 1 + 1 whereas "D" is 3 + 0).
-> - ``list1 = ["C"]`, `list2 = ["D"]`, return `[]`.
+> - `list1 = ["C"]`, `list2 = ["D"]`, return `[]`.
 
 Solution:
 ```
