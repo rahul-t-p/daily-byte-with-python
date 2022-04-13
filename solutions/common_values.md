@@ -1,7 +1,7 @@
 > Given two integer arrays, `nums1` and `nums2`, return the intersection of the two arrays(i.e. the elements they have in common).
 >
 > Ex: Given the following `nums1` and `nums2`...
-> - `nums1 = [1, 2, 2, 3]`, `nums2 = [0, 2, 2, 5], return [2, 2].
+> - `nums1 = [1, 2, 2, 3]`, `nums2 = [0, 2, 2, 5]`, return [2, 2].
 
 Solution:
 ```
