@@ -31,6 +31,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 25. [Find Value](solutions/find_value.md)
 26. [Restaurants](solutions/restaurants.md)
 27. [Continuous Sums](solutions/continuous_sums.md)
+28. [Common Values](solutions/common_values.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
