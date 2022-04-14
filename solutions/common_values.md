@@ -6,7 +6,13 @@
 Solution:
 ```
 def common_values(nums1, nums2):
-    return [i for i in nums1 if i in nums2]
+    nums2_tmp = nums2.copy()
+    common_vals = []
+    for i in nums1:
+        if i in nums2_tmp:
+            nums2_tmp.remove(i)
+            common_vals.append(i)
+    return common_vals
 ```
 
 Test results:
