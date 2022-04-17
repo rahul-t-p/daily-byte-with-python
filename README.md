@@ -35,6 +35,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 29. [Most Popular](solutions/most_popular.md)
 30. [Final Digit](solutions/final_digit.md)
 31. [Microsoft Paint](solutions/microsoft_paint.md)
+32. [Missing Numbers](solutions/missing_numbers.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
