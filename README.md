@@ -37,6 +37,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 31. [Microsoft Paint](solutions/microsoft_paint.md)
 32. [Missing Numbers](solutions/missing_numbers.md)
 33. [Theft](solutions/theft.md)
+34. [Roman Numerals](solutions/roman_numerals.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
