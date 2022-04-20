@@ -38,6 +38,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 32. [Missing Numbers](solutions/missing_numbers.md)
 33. [Theft](solutions/theft.md)
 34. [Roman Numerals](solutions/roman_numerals.md)
+35. [Spelling Bee](solutions/spelling_bee.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
