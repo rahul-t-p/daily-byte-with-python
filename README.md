@@ -41,6 +41,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 35. [Spelling Bee](solutions/spelling_bee.md)
 36. [Insert value](solutions/insert_value.md)
 37. [Gift Card Codes](solutions/gift_card_codes.md)
+38. [All Equal](solutions/all_equal.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
