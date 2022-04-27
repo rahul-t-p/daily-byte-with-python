@@ -43,6 +43,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 37. [Gift Card Codes](solutions/gift_card_codes.md)
 38. [All Equal](solutions/all_equal.md)
 39. [Plus to Minus](solutions/plus_to_minus.md)
+40. [Largest Unique Value](solutions/largest_unique_value.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
