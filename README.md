@@ -46,6 +46,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 40. [Largest Unique Value](solutions/largest_unique_value.md)
 41. [Max Chain](solutions/max_chain.md)
 42. [No Duplicates](solutions/no_duplicates.md)
+43. [Add Zeros](solutions/add_zeros.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
