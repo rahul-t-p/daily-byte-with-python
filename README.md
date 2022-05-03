@@ -48,6 +48,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 42. [No Duplicates](solutions/no_duplicates.md)
 43. [Add Zeros](solutions/add_zeros.md)
 44. [Square Roots](solutions/square_roots.md)
+45. [Find Bunches](solutions/find_bunches.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
