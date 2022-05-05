@@ -49,6 +49,7 @@ The credits for the questions goes to [THE DAILY BYTE](https://thedailybyte.dev/
 43. [Add Zeros](solutions/add_zeros.md)
 44. [Square Roots](solutions/square_roots.md)
 45. [Find Bunches](solutions/find_bunches.md)
+46. [One Value](solutions/one_value.md)
 
 ### Stacks
 1. [Queue Stack](solutions/stacks/queue_stack.md)
